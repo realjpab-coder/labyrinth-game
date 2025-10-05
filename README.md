@@ -1,0 +1,1 @@
+## The user can escape one of two labyrinths by collecting items along the way. The user inputs cardinal directions to traverse the maze and as soon as all the items are collected, the user escapes. One labyrinth is grid-based, while the other relies on pointers and memory addresses for traversal. 
